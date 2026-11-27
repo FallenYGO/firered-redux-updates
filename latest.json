@@ -15,11 +15,19 @@
       "sha256": "076d4099c1754346a6e57239a8794c908eae13fbef87c3e24b6774fe15324cdf",
       "bytes": 250,
       "notes": "TEST ONLY: publisher upload smoke test; no gameplay changes."
+    },
+    {
+      "from": "0.1.3",
+      "version": "0.1.4",
+      "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.4/Redux-0.1.3-to-0.1.4.zip",
+      "sha256": "076d4099c1754346a6e57239a8794c908eae13fbef87c3e24b6774fe15324cdf",
+      "bytes": 250,
+      "notes": "TEST ONLY: publisher upload smoke test; no gameplay changes."
     }
   ],
-  "from": "0.1.3",
-  "version": "0.1.4",
-  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.4/Redux-0.1.3-to-0.1.4.zip",
+  "from": "0.1.4",
+  "version": "0.1.5",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.5/Redux-0.1.4-to-0.1.5.zip",
   "sha256": "076d4099c1754346a6e57239a8794c908eae13fbef87c3e24b6774fe15324cdf",
   "bytes": 250,
   "notes": "TEST ONLY: publisher upload smoke test; no gameplay changes."
