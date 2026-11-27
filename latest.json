@@ -39,12 +39,20 @@
       "sha256": "076d4099c1754346a6e57239a8794c908eae13fbef87c3e24b6774fe15324cdf",
       "bytes": 250,
       "notes": "TEST ONLY: publisher upload smoke test; no gameplay changes."
+    },
+    {
+      "from": "0.1.6",
+      "version": "0.1.7",
+      "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.7/Redux-0.1.6-to-0.1.7.zip",
+      "sha256": "0ca0a4bebfe7a09b14e4253be801896c1b92164668951fa910e1a7ed8b4fce3d",
+      "bytes": 55876,
+      "notes": "TEST: Thunder Shock power increased from 40 to 45"
     }
   ],
-  "from": "0.1.6",
-  "version": "0.1.7",
-  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.7/Redux-0.1.6-to-0.1.7.zip",
-  "sha256": "0ca0a4bebfe7a09b14e4253be801896c1b92164668951fa910e1a7ed8b4fce3d",
-  "bytes": 55876,
-  "notes": "TEST: Thunder Shock power increased from 40 to 45"
+  "from": "0.1.7",
+  "version": "0.1.8",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.8/Redux-0.1.7-to-0.1.8.zip",
+  "sha256": "b39d7f59091995d4a14744a3bf3e303db57077aec3483733651993e28ed31dfe",
+  "bytes": 55875,
+  "notes": "Thundershock's Power Reduced from 45 back down to 40"
 }
