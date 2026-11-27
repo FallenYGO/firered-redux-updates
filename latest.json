@@ -1,16 +1,26 @@
 {
-  "from": "0.1.0",
-  "version": "0.2.0",
-  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.0/Redux-0.1.0-to-0.2.0.zip",
-  "sha256": "ff6bb3bdf8e9936e75aa32f18bfc2729c017fba6842ca6fcee867815e414e334",
-  "bytes": 1349367,
-  "notes": "FireRed Redux Beta v0.2.0: Enhanced Battle UI; mid-battle evolutions; dynamic wild encounter levels; rare evolved encounters; reusable TMs; trainer rematches; progression-based trainer balancing; expanded Trainer Guide; short-code Mystery Gifts; live Discord milestone announcements; battle crash fixes and general gameplay improvements.",
-  "delete": [
-    "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo0.png",
-    "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo1.png",
-    "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo2.png",
-    "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo3.png",
-    "Plugins/Turbo Speedup/Plugins/Turbo Speedup v21/TurboSpeedup.rb",
-    "Plugins/Turbo Speedup/Plugins/Turbo Speedup v21/meta.txt"
-  ]
+  "history": [
+    {
+      "from": "0.1.0",
+      "version": "0.2.0",
+      "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.0/Redux-0.1.0-to-0.2.0.zip",
+      "sha256": "ff6bb3bdf8e9936e75aa32f18bfc2729c017fba6842ca6fcee867815e414e334",
+      "bytes": 1349367,
+      "notes": "FireRed Redux Beta v0.2.0: Enhanced Battle UI; mid-battle evolutions; dynamic wild encounter levels; rare evolved encounters; reusable TMs; trainer rematches; progression-based trainer balancing; expanded Trainer Guide; short-code Mystery Gifts; live Discord milestone announcements; battle crash fixes and general gameplay improvements.",
+      "delete": [
+        "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo0.png",
+        "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo1.png",
+        "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo2.png",
+        "Plugins/Turbo Speedup/Graphics/UI/Speedup/Turbo3.png",
+        "Plugins/Turbo Speedup/Plugins/Turbo Speedup v21/TurboSpeedup.rb",
+        "Plugins/Turbo Speedup/Plugins/Turbo Speedup v21/meta.txt"
+      ]
+    }
+  ],
+  "from": "0.2.0",
+  "version": "0.2.1",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.1/Redux-0.2.0-to-0.2.1.zip",
+  "sha256": "3eb24191793b4adbe48721495cb967c56d4f2b8576ab14dce5eeeba362d15a3d",
+  "bytes": 1058298,
+  "notes": "Covers all eight Gym Leaders."
 }
