@@ -1,5 +1,8 @@
 {
-  "status": "no_update",
-  "version": "0.1.0",
-  "notes": "FireRed Redux update feed is online. No public patch has been published."
+  "from": "0.1.0",
+  "version": "0.1.1",
+  "patch_url": "https://raw.githubusercontent.com/FallenYGO/firered-redux-updates/updater-test/online-test.zip",
+  "sha256": "607fbb85740c3a899e37335c6aedf4a1fbaa502179ab01597fbd199ade6dcf34",
+  "bytes": 237,
+  "notes": "TEST ONLY: installs one harmless text file. No gameplay changes. Not a public game release."
 }
