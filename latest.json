@@ -15,12 +15,20 @@
         "Plugins/Turbo Speedup/Plugins/Turbo Speedup v21/TurboSpeedup.rb",
         "Plugins/Turbo Speedup/Plugins/Turbo Speedup v21/meta.txt"
       ]
+    },
+    {
+      "from": "0.2.0",
+      "version": "0.2.1",
+      "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.1/Redux-0.2.0-to-0.2.1.zip",
+      "sha256": "3eb24191793b4adbe48721495cb967c56d4f2b8576ab14dce5eeeba362d15a3d",
+      "bytes": 1058298,
+      "notes": "Covers all eight Gym Leaders."
     }
   ],
-  "from": "0.2.0",
-  "version": "0.2.1",
-  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.1/Redux-0.2.0-to-0.2.1.zip",
-  "sha256": "3eb24191793b4adbe48721495cb967c56d4f2b8576ab14dce5eeeba362d15a3d",
-  "bytes": 1058298,
-  "notes": "Covers all eight Gym Leaders."
+  "from": "0.2.1",
+  "version": "0.2.2",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.2/Redux-0.2.1-to-0.2.2.zip",
+  "sha256": "8355fa0b39cedf7b667eb4e4f2112af2af31f45d83d7f916fe39ff7141a81363",
+  "bytes": 339163,
+  "notes": "Butterfree's secondary typing changed from Flying to Pyschic"
 }
