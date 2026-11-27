@@ -1,8 +1,8 @@
 {
-  "from": "0.1.0",
-  "version": "0.1.1",
-  "patch_url": "https://raw.githubusercontent.com/FallenYGO/firered-redux-updates/updater-test/online-test.zip",
-  "sha256": "607fbb85740c3a899e37335c6aedf4a1fbaa502179ab01597fbd199ade6dcf34",
-  "bytes": 237,
-  "notes": "TEST ONLY: installs one harmless text file. No gameplay changes. Not a public game release."
+  "from": "0.1.1",
+  "version": "0.1.2",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/test-v0.1.2/Redux-0.1.1-to-0.1.2.zip",
+  "sha256": "076d4099c1754346a6e57239a8794c908eae13fbef87c3e24b6774fe15324cdf",
+  "bytes": 250,
+  "notes": "TEST ONLY: publisher upload smoke test; no gameplay changes."
 }
