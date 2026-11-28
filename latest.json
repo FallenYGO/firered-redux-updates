@@ -23,12 +23,20 @@
       "sha256": "3eb24191793b4adbe48721495cb967c56d4f2b8576ab14dce5eeeba362d15a3d",
       "bytes": 1058298,
       "notes": "Covers all eight Gym Leaders."
+    },
+    {
+      "from": "0.2.1",
+      "version": "0.2.2",
+      "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.2/Redux-0.2.1-to-0.2.2.zip",
+      "sha256": "8355fa0b39cedf7b667eb4e4f2112af2af31f45d83d7f916fe39ff7141a81363",
+      "bytes": 339163,
+      "notes": "Butterfree's secondary typing changed from Flying to Pyschic"
     }
   ],
-  "from": "0.2.1",
-  "version": "0.2.2",
-  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.2/Redux-0.2.1-to-0.2.2.zip",
-  "sha256": "8355fa0b39cedf7b667eb4e4f2112af2af31f45d83d7f916fe39ff7141a81363",
-  "bytes": 339163,
-  "notes": "Butterfree's secondary typing changed from Flying to Pyschic"
+  "from": "0.2.2",
+  "version": "0.2.3",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.3/Redux-0.2.2-to-0.2.3.zip",
+  "sha256": "77fb8327414c0fb7db4f1b50f255616a3eb832940578c7c737b65512b5ebfddd",
+  "bytes": 10976915,
+  "notes": "Added 32 new Mega Evolutions inspired by official Gigantimax forms, featuring animated sprites, custom stats, abilities, and dedicated Mega Stones. Rebalanced several Mega Evolutions for improved competitive viability. Added a Dynamic Camera toggle in the Options menu, allowing players to disable cinematic camera movement during battles. Improved Mega Evolution sprite positioning and scaling. Various graphical improvements and bug fixes."
 }
