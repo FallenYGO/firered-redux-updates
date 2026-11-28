@@ -39,12 +39,33 @@
       "sha256": "77fb8327414c0fb7db4f1b50f255616a3eb832940578c7c737b65512b5ebfddd",
       "bytes": 10976915,
       "notes": "Added 32 new Mega Evolutions inspired by official Gigantimax forms, featuring animated sprites, custom stats, abilities, and dedicated Mega Stones. Rebalanced several Mega Evolutions for improved competitive viability. Added a Dynamic Camera toggle in the Options menu, allowing players to disable cinematic camera movement during battles. Improved Mega Evolution sprite positioning and scaling. Various graphical improvements and bug fixes."
+    },
+    {
+      "from": "0.2.3",
+      "version": "0.2.4",
+      "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.4/Redux-0.2.3-to-0.2.4.zip",
+      "sha256": "b157c5a240225b31cdbfc12772a1bbae7fd2233d95045eede88e339247e60141",
+      "bytes": 12377795,
+      "notes": "Restored automatic directional movement, player spinning, direction changes and yellow stopping pads on B2F and B3F. Corrected a variable mismatch that prevented the original elevator animation and screen shake from executing. Restored the sound triggers and included backup sound effects if the original audio files are missing."
     }
   ],
-  "from": "0.2.3",
-  "version": "0.2.4",
-  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.4/Redux-0.2.3-to-0.2.4.zip",
-  "sha256": "b157c5a240225b31cdbfc12772a1bbae7fd2233d95045eede88e339247e60141",
-  "bytes": 12377795,
-  "notes": "Restored automatic directional movement, player spinning, direction changes and yellow stopping pads on B2F and B3F. Corrected a variable mismatch that prevented the original elevator animation and screen shake from executing. Restored the sound triggers and included backup sound effects if the original audio files are missing."
+  "from": "0.2.4",
+  "version": "0.2.5",
+  "patch_url": "https://github.com/FallenYGO/firered-redux-updates/releases/download/patch-v0.2.5/Redux-0.2.4-to-0.2.5.zip",
+  "sha256": "a8051e297bd1c384c3a64ff454e877af4f644cff683d22493dfe3b25f5e4cea3",
+  "bytes": 1278938,
+  "notes": "Fixed the infinitely repeating rival battle in Silph Co. Corrected Dig and Escape Rope destinations. Fixed repeatable Pokemon rewards at the Fighting Dojo. Enabled Fighting Dojo trainer rematches. Corrected Knock-Off's held item removal behavior. Addressed 19 missing story switch definitions affection 160 event conditions throughout Kanto. Added recovery safeguards for certain invalid player postions. Preserved existing save compatibility. Special thanks to Rain-Chan for extensive beta testing and bug reporting. Retired the previous FireRed Advanced AI system. Temporarily reverted to standard battle AI while a completely redesigned competitive AI engine, RBIE, is under development. RBIE is planned for v0.3, featuring Radical Red-inspired battle intelligence, individual fighting styles, competitive team roles, advanced prediction and strategically constructed trainer teams. An experimental RBIE public test is planned ahead of v0.3. Development of v0.3 will also focus on a comprehensive competitive trainer overhaul and making all 1,025 Pokémon legitimately obtainable through gameplay.",
+  "delete": [
+    "Plugins/FireRed Advanced AI/001_Settings.rb",
+    "Plugins/FireRed Advanced AI/002_BattleMemory.rb",
+    "Plugins/FireRed Advanced AI/003_MoveScoring.rb",
+    "Plugins/FireRed Advanced AI/004_Prediction.rb",
+    "Plugins/FireRed Advanced AI/004_Switching.rb",
+    "Plugins/FireRed Advanced AI/005_Integration.rb",
+    "Plugins/FireRed Advanced AI/006_Strategy.rb",
+    "Plugins/FireRed Advanced AI/007_ReleasePolicy.rb",
+    "Plugins/FireRed Advanced AI/008_AdaptiveDecision.rb",
+    "Plugins/FireRed Advanced AI/009_ForwardPlanning.rb",
+    "Plugins/FireRed Advanced AI/meta.txt"
+  ]
 }
